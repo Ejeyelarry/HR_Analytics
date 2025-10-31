@@ -2,7 +2,7 @@
 
 ---
 ## Project Summary
-This HR_Analyticss project focuses on applying data-driven insight to maximize workforce performance,reduce attrition & support longterm talent planning.
+This HR_Analytics project focuses on applying data-driven insight to maximize workforce performance,reduce attrition & support longterm talent planning.
 This project explores *HR_Analytics dataset* using Excel for data cleaning,exploratory data analysis (EDA) & Visualization.
 
 The dataset used captures, employee informations, Jobrole,Environmental Satisfaction and Marital Status. 
@@ -65,7 +65,7 @@ This project aims to solve these by analyzing attrition by marital status,Revenu
    ---
 
 ## Strategic HR Action Recommendation
-- Retetion focus by targeting single employees using loyalty and carreer developmental programmes
+- Retention focus by targeting single employees using loyalty and carreer developmental programmes
 - Compensation strategy by reassessing and realigning salary structure to employee revenue contribution
 - Matching highly educated employees to strategic roles to better leverage their potential.
 
